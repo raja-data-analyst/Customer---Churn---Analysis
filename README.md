@@ -190,7 +190,7 @@ Customer-Churn-Analysis/
 
 ## 🖼️ Dashboard Preview
 
-![Customer Churn Analysis Dashboard](Dashboard/Customer_Churn_Dashboard.png)
+![Customer Churn Analysis Dashboard](Customer_Churn_Dashboard.png)
 
 ---
 
